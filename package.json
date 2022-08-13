@@ -1,0 +1,16 @@
+{
+  "name": "css-hello-world",
+  "version": "0.1.0",
+  "description": "Hello World in CSS",
+  "main": "index.js",
+  "repository": "https://github.com/sampathsris/css-hello-world.git",
+  "author": "Sampath Sitinamaluwa <sampathsris@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "dev": "lite-server --baseDir=\"src\""
+  }
+}

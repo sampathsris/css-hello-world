@@ -1,0 +1,10 @@
+body {
+    background-color: deeppink;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 144pt;
+}
+
+body::before {
+    content: 'Hello World!';
+}
